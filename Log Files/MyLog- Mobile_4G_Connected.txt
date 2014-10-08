@@ -1,0 +1,9 @@
+10-05 22:11:46.841: I/My Download App(22468): at Sun Oct 05 22:11:46 EDT 2014 WIFI is NOT connected.
+10-05 22:11:46.841: I/My Download App(22468): at Sun Oct 05 22:11:46 EDT 2014 Mobile Network is Connected.
+10-05 22:11:58.263: I/My Download App(22468): at Sun Oct 05 22:11:58 EDT 2014 Download Task Scheduled by Download Manager.
+10-05 22:11:58.353: I/My Download App(22468): at Sun Oct 05 22:11:58 EDT 2014 Throughput[10sec interval] is 0 bytes/sec
+10-05 22:11:58.753: I/My Download App(22468): at Sun Oct 05 22:11:58 EDT 2014 Actual Download of File Started.
+10-05 22:11:58.753: I/My Download App(22468): Total Size of File : 740402
+10-05 22:11:58.934: I/My Download App(22468): Latency is 184 ms
+10-05 22:12:00.215: I/My Download App(22468): at Sun Oct 05 22:12:00 EDT 2014 Download File Completed Successfully.
+10-05 22:12:00.215: I/My Download App(22468): Total Throughput(bytes/s) : 506084.7573479152bytes/sec

@@ -1,0 +1,16 @@
+10-05 23:27:18.732: I/My Download App(19672): at Sun Oct 05 23:27:18 EDT 2014 WIFI is NOT connected.
+10-05 23:27:24.158: I/My Download App(19672): at Sun Oct 05 23:27:24 EDT 2014 Download Task Scheduled by Download Manager.
+10-05 23:27:24.458: I/My Download App(19672): at Sun Oct 05 23:27:24 EDT 2014 Throughput[10sec interval] is 0 bytes/sec
+10-05 23:27:34.259: I/My Download App(19672): at Sun Oct 05 23:27:34 EDT 2014 Throughput[10sec interval] is 0 bytes/sec
+10-05 23:27:42.007: I/My Download App(19672): at Sun Oct 05 23:27:42 EDT 2014 WIFI is connected.
+10-05 23:27:42.017: I/My Download App(19672): at Sun Oct 05 23:27:42 EDT 2014WIFI SSID is "Rizvi-Network-196"
+10-05 23:27:44.149: I/My Download App(19672): at Sun Oct 05 23:27:44 EDT 2014 Actual Download of File Started.
+10-05 23:27:44.149: I/My Download App(19672): Total Size of File : 740402
+10-05 23:27:44.309: I/My Download App(19672): at Sun Oct 05 23:27:44 EDT 2014 Throughput[10sec interval] is 0 bytes/sec
+10-05 23:27:44.950: I/My Download App(19672): at Sun Oct 05 23:27:44 EDT 2014 WIFI is NOT connected.
+10-05 23:27:47.513: I/My Download App(19672): at Sun Oct 05 23:27:47 EDT 2014 WIFI is NOT connected.
+10-05 23:27:47.553: I/My Download App(19672): at Sun Oct 05 23:27:47 EDT 2014 Mobile Network is Connected.
+10-05 23:27:54.340: I/My Download App(19672): at Sun Oct 05 23:27:54 EDT 2014 Throughput[10sec interval] is 0 bytes/sec
+10-05 23:27:56.442: I/My Download App(19672): Latency is 12295 ms
+10-05 23:28:02.269: I/My Download App(19672): at Sun Oct 05 23:28:02 EDT 2014 Download File Completed Successfully.
+10-05 23:28:02.269: I/My Download App(19672): Total Throughput(bytes/s) : 40863.29267619626bytes/sec
